@@ -9,10 +9,10 @@
        media="(prefers-color-scheme: dark)"
      />
      <source
-       srcset="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true"
+       srcset="[https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula)"
        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
-     <img src="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true" />
+     <img src="[https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula)" />
     </picture>
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
