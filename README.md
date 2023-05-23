@@ -5,7 +5,7 @@
   <a href="https://github.com/ganeshhyc">
     <picture>
      <source
-       srcset="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dark"
+       srcset="[https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula)"
        media="(prefers-color-scheme: dark)"
      />
      <source
