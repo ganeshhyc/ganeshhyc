@@ -12,10 +12,20 @@
        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula&show_icons=true"
        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula&show_icons=true" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula&show_icons=true&theme=dark" />
     </picture>
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhyc&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   
+   <picture>
+     <source
+       srcset="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&theme=dark"
+       media="(prefers-color-scheme: dark)"
+     />
+     <source
+       srcset="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"
+       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+     />
+     <img src="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&theme=dark" />
+    </picture>
 </div>
  
  ## Skills
