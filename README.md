@@ -16,16 +16,10 @@
     </picture>
    
    <picture>
-     <source
-       srcset="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&theme=dark"
-       media="(prefers-color-scheme: dark)"
-     />
-     <source
-       srcset="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-     />
-     <img src="https://github-readme-stats.vercel.app/api?username=ganeshhyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&theme=dark" />
-    </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
  
  ## Skills
